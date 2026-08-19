@@ -21,5 +21,3 @@ social-media-sql-project/
 │   ├── 02_window_functions.sql
 │   ├── 03_business_questions.sql
 │   └── 04_practice_queries.sql
-├── docs/ERD.png
-└── README.md
